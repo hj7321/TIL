@@ -7,8 +7,8 @@ Today I Learned
 - pwd가 'print working directory'라는 건 까먹고 있었는데, 이 기회를 통해 다시 한 번 복습할 수 있어서 좋았다.
 ### 2. Git과 GitHub의 개념/차이점
 - Git과 GitHub의 정확한 개념과 차이점을 알게 되었다.
-  - Git: 코드 변경점 기록, 버전 관리 도구
-  - GitHub: 온라인 코드 저장소(백업/공유/협업)
+  - Git: 코드 변경점 기록, 버전 관리 **도구**
+  - GitHub: 온라인 코드 **저장소** (백업/공유/협업)
 ### 3. Git 명령어
 ### 4. GitHub로 코드 백업하기
 ### 5. GitHub 협업 기초와 충돌 해결법
