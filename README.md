@@ -12,3 +12,5 @@ Today I Learned
 - [0424_day8](./bootcamp/0424_day8.md)
 - [0425_day9](./bootcamp/0425_day9.md)
 - [0426_day10](./bootcamp/0426_day10.md)
+- [0429_day11](./bootcamp/0429_day11.md)
+- [0430_day12](./bootcamp/0430_day12.md)
