@@ -23,3 +23,4 @@ console.log("A".charCodeAt(0)); // 65
 console.log("Z".charCodeAt(0)); // 90
 console.log(String.fromCharCode(91)); // [
 console.log(String.fromCharCode(92)); // \
+console.log(String.fromCharCode(65, 66, 67)); // ABC
