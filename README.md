@@ -20,3 +20,4 @@ Today I Learned
 - [0506_day16](./bootcamp/0506_day16.md)
 - [0507_day17](./bootcamp/0507_day17.md)
 - [0508_day18](./bootcamp/0508_day18.md)
+- [0509_day19](./bootcamp/0509_day19.md)
