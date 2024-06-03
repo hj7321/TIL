@@ -36,3 +36,4 @@ Today I Learned
 - [0529_day32](./bootcamp/0529_day32.md)
 - [0530_day33](./bootcamp/0530_day33.md)
 - [0531_day34](./bootcamp/0531_day34.md)
+- [0603_day35](./bootcamp/0603_day35.md)
