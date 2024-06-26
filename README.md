@@ -46,3 +46,6 @@ Today I Learned
 - [0618_day42](./bootcamp/0618_day42.md)
 - [0620_day43](./bootcamp/0620_day43.md)
 - [0625_day44](./bootcamp/0625_day44.md)
+- [0626_day45](./bootcamp/0626_day45.md)
+- [0627_day46](./bootcamp/0627_day46.md)
+- [0628_day47](./bootcamp/0628_day47.md)
