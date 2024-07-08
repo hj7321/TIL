@@ -68,3 +68,4 @@ Today I Learned
 ---
 
 - [0705_day51](./bootcamp/0705_day51.md)
+- [0708_day52](./bootcamp/0708_day52.md)
