@@ -73,3 +73,7 @@ Today I Learned
 - [0711_day54](./bootcamp/0711_day54.md)
 - [0712_day55](./bootcamp/0712_day55.md)
 - [0715_day56](./bootcamp/0715_day56.md)
+- [0716_day57](./bootcamp/0716_day57.md)
+- [0717_day58](./bootcamp/0717_day58.md)
+- [0718_day59](./bootcamp/0718_day59.md)
+- [0719_day60](./bootcamp/0719_day60.md)
